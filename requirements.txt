@@ -37,7 +37,7 @@ langchain-core==0.3.49
 langchain-google-genai==2.0.10
 langchain-ollama==0.2.2
 langchain-openai==0.3.1
-langchain-text-splitters==0.3.7
+langchain-text-splitters==0.3.9
 langsmith==0.3.22
 markdownify==0.14.1
 mcp==1.6.0
