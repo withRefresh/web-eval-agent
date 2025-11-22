@@ -1,6 +1,10 @@
-# 🚀 operative.sh web-eval-agent MCP Server
+# ⚠️ PROJECT HAS BEEN SUNSET ⚠️
 
-> **⚠️ This project has been sunset. We're working on something new at [withrefresh.com](https://withrefresh.com)**
+## This project has been discontinued. We're building something new at [withrefresh.com](https://withrefresh.com)
+
+---
+
+# 🚀 operative.sh web-eval-agent MCP Server
 
 > *Let the coding agent debug itself, you've got better things to do.*
 
